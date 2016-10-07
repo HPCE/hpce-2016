@@ -29,5 +29,5 @@ Links will be made available according to that timeline.
 Lecture notes
 -------------
 
-- [Lecture 0 : introduction](lectures/hpce-lec0-introduction.pdf)
+- [Lecture 0 : introduction](slides/hpce-lec0-introduction.pdf)
 
