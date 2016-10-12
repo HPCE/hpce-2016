@@ -31,5 +31,13 @@ Links will be made available according to that timeline.
 Lecture notes
 -------------
 
+The Panopto recordings are available to anyone who can access the panopto imperial site.
+
 - [Lecture 0 : introduction](slides/hpce-lec0-introduction.pdf)
+
+  - [Panopto Part 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ab2940cc-8ea3-4edf-b77b-7d5958ef1ee1) : I was
+    using the laptop mic, so sound is variable as I walk around.
+  
+  - [Panopto Part 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=33202873-1418-4715-8040-4b5cc79e96dc)
+  
 
