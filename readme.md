@@ -1,7 +1,7 @@
 High Performance Computing For Engineers
 ========================================
 
-Autum term 2014-2015
+Autum term 2016-2017
 
 Actions
 -------
