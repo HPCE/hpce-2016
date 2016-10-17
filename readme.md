@@ -37,10 +37,10 @@ The Panopto recordings are available to anyone who can access the panopto imperi
 
   - [Panopto Part 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ab2940cc-8ea3-4edf-b77b-7d5958ef1ee1) : I was
     using the laptop mic, so sound is variable as I walk around.
-  
+
   - [Panopto Part 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=33202873-1418-4715-8040-4b5cc79e96dc)
-  
+
 - [Lecture 1 : TBB parallel_for](slides/hpce-lec1-parfor.pdf)
 
-- [Lecture 2 : TBB details](slides/hpce-lec1-parfor-tbb.pdf)
+- [Lecture 2 : TBB details](slides/hpce-lec2-parfor-tbb.pdf)
 
