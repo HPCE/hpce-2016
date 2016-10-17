@@ -28,6 +28,8 @@ Links will be made available according to that timeline.
 
 - [Coursework 1](https://github.com/HPCE/hpce-2016-cw1) : If you have registered with github, you should have a private repository as well.
 
+- [Coursework 2](https://github.com/HPCE/hpce-2016-cw2) : I'll setup up bare private repositories for everyone registered.
+
 Lecture notes
 -------------
 
