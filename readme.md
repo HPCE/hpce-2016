@@ -28,7 +28,9 @@ Links will be made available according to that timeline.
 
 - [Coursework 1](https://github.com/HPCE/hpce-2016-cw1) : If you have registered with github, you should have a private repository as well.
 
-- [Coursework 2](https://github.com/HPCE/hpce-2016-cw2) : I'll setup up bare private repositories for everyone registered.
+- [Coursework 2](https://github.com/HPCE/hpce-2016-cw2) : I'll setup bare private repositories for everyone registered.
+
+- [Coursework 3](https://github.com/HPCE/hpce-2016-cw3) : I'll setup bare private repositories for everyone registered who submitted for coursework 1 (this will happen on the morning of Mon 24th).
 
 Lecture notes
 -------------
