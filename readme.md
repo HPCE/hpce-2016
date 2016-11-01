@@ -52,3 +52,5 @@ The Panopto recordings are available to anyone who can access the panopto imperi
 
 - [Lecture 4 : TBB OpenCL Intro](slides/hpce-lec4-opencl-intro.pdf)
 
+- [Lecture 5 : TBB OpenCL Outro](slides/hpce-lec5-opencl-outro.pdf)
+
