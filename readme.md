@@ -24,6 +24,10 @@ Links will be made available according to that timeline.
 
 - [Coursework 4](https://github.com/HPCE/hpce-2016-cw4).
 
+- [Coursework 5](https://github.com/HPCE/hpce-2016-cw5).
+
+- [Coursework 6](https://github.com/HPCE/hpce-2016-cw6).
+
 Lecture notes
 -------------
 
