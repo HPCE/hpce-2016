@@ -62,5 +62,7 @@ The Panopto recordings are available to anyone who can access the panopto imperi
 
 - [Lecture 7 : Performance](slides/hpce-lec7-performance.pdf)
 
+- [Lecture 10 : Patterns + CW6](slides/hpce-lec10-patterns.pdf)
+
 
 
